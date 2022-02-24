@@ -1,0 +1,436 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the rector of Bury's letter to his friend wherein is shewed that has effectually, tho' unwllingly acquitted the dissenters from his malicious charge of their being corrupters of the Word of God, that his attempts against the titles of the Psalms and Hebrew Bibles are feeble and inconsistent / by James Owen.</title>
+            <author>Owen, James, 1654-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53656</idno>
+            <idno type="STC">Wing O705</idno>
+            <idno type="STC">ESTC R38158</idno>
+            <idno type="EEBO-CITATION">17197958</idno>
+            <idno type="OCLC">ocm 17197958</idno>
+            <idno type="VID">106188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1621:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the rector of Bury's letter to his friend wherein is shewed that has effectually, tho' unwllingly acquitted the dissenters from his malicious charge of their being corrupters of the Word of God, that his attempts against the titles of the Psalms and Hebrew Bibles are feeble and inconsistent / by James Owen.</title>
+                  <author>Owen, James, 1654-1706.</author>
+               </titleStmt>
+               <extent>2, [22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Bridge for Tho. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Criticism, interpretation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106188:1" rendition="simple:additions"/>
+            <pb facs="tcp:106188:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE <hi>Rector of Bury's</hi> LETTER TO HIS FRIEND.</p>
+            <p>Wherein is ſhew'd, That He has effectually, tho' unwil<g ref="char:EOLhyphen"/>lingly acquitted the <hi>Diſſenters</hi> from his malici<g ref="char:EOLhyphen"/>ous Charge of their being Corrupters of the Word of God.</p>
+            <p>That his attempts againſt the Titles of the <hi>Pſalms,</hi> and <hi>He<g ref="char:EOLhyphen"/>brew</hi> Bibles are Feeble and Inconſiſtent.</p>
+            <p>By <hi>JAMES OWEN.</hi>
+            </p>
+            <q>
+               <p>Malunt neſcire, quia jam oderunt.</p>
+               <bibl>Tert. Apol Cap. 1.</bibl>
+            </q>
+            <q>
+               <p>Hi rumores turpiſſimos ſerunt, &amp; quod ab ipſis egreſſum eſt, id ab aliis audiſſe ſe ſimulant, iidem auctores &amp; exaggeratores.</p>
+               <bibl>Hieron ad Fu<g ref="char:EOLhyphen"/>riam.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>S. Bridge,</hi> for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers-Chapel,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106188:2"/>
+            <pb n="1" facs="tcp:106188:2"/>
+            <head>AN ANSWER TO THE <hi>Rector of Bury's</hi> LETTER.</head>
+            <p>
+               <hi>J<g ref="char:V">Ʋ</g>lius Coeſar</hi> reports of the Ancient <hi>Gallic</hi> Soldiers<note n="*" place="bottom">De Bell. Gall.</note>, that <hi>at the firſt on-ſet they were more than Men, and at the ſecond leſs than Women.</hi> Such a Champion is the <hi>Rector of Bury,</hi> who has <hi>charged</hi> the Diſſenters with a Paſſion exceeding that of a <hi>Man,</hi> even ſuch as diſtinguiſhes the <hi>Accuſer of the Brethren,</hi> but find<g ref="char:EOLhyphen"/>ing himſelf warmly receiv'd, he conſults his own Safety by an <hi>in<g ref="char:EOLhyphen"/>glorious flight,</hi> and would ſhelter himſelf in ſuch Refuges, as would be generouſly diſdain'd even by thoſe of the <hi>weaker Sex,</hi> whoſe Con<g ref="char:EOLhyphen"/>duct is influenc'd by any Principles of Vertue and Honour: He is ſo vain as to compare himſelf to <hi>Scipio Africanus</hi>
+               <note n="†" place="bottom">Rem. on Rem. <hi>p. 7.</hi>
+               </note>, <hi>whoſe Policy</hi> (ſays he) <hi>I thought fit to make uſe of by carrying the War into the Enemies own Country, and to lay to the Diſſenter's Charge a Crime,</hi> &amp;c Our renown<g ref="char:EOLhyphen"/>ed <hi>Engliſh Scipio</hi> is ſo fond of his <hi>Military Politicks</hi> that he cannot for<g ref="char:EOLhyphen"/>bear mentioning them again in his Letter. <hi>I thought not improper</hi>
+               <note n="‖" place="bottom">
+                  <hi>Letter,</hi> p. 19.</note>, ſays he, <hi>to carry the War into the Enemies own Countrey, and tax them with corrupting,</hi> Acts 6.3.</p>
+            <p>Here is a formidable War begun upon us, the Rector declares us all Enemies, becauſe the <hi>Note-maker</hi> and Mr. <hi>Calvin,</hi> as he pretends, had broken the Peace, and treats us with all the fierceneſs and ma<g ref="char:EOLhyphen"/>lignity, which he reckons due to <hi>Enemies,</hi> eſpecially in a time of <hi>Publick Hoſtility.</hi>
+            </p>
+            <pb n="4" facs="tcp:106188:3"/>
+            <p>One or two Perſons had diſpleaſed him, and inſtead of engaging them, like another <hi>Goliah</hi> he aſſaults the whole Body of <hi>Engliſh Diſ<g ref="char:EOLhyphen"/>ſenters,</hi> together with the <hi>Church</hi> of Scotland. He lays to their <hi>charge things they knew not,</hi> and makes them Corrupters of the Word of God. He pretends they Printed <hi>Ye</hi> for <hi>We</hi> in <hi>Acts</hi> 6.3. And this he at<g ref="char:EOLhyphen"/>tempts to prove by Four Arguments.</p>
+            <p n="1">1. The firſt Corruption happen'd in <hi>Cambridge</hi> in the Year 1638. 2. It favours the <hi>Diſſenters.</hi> 3. The Epiſcopal Party deſign'd not to corrupt this Place. 4. A <hi>Cameronian</hi> urg'd this corrupt Reading. Theſe are the Forces, with which he manages the <hi>War,</hi> as he calls it. I fully confuted his Arguments in my <hi>Remarks</hi> on his <hi>Corruption-Sermon.</hi> Sometime after he Publiſhes his <hi>Remarks on Remarks,</hi> where<g ref="char:EOLhyphen"/>in he pretends to <hi>confirm his Charge,</hi> and to recruit his Forces by the Addition of a Story or two, which he tacks to the <hi>Cameronian</hi>-Story. That Book is full of bitter and indecent Reflections on the whole Tribe of Diſſenters. In my further Vindication of the Diſſenters, I anſwe<g ref="char:EOLhyphen"/>red all his Four Arguments, expos'd the weakneſs and invalidity of 'em, which muſt of neceſſity affect the Author, and now and then I complain'd of his <hi>Injuſtice,</hi> want of <hi>Candor, Charity</hi> and <hi>Truth.</hi> The Rector, as I have Reaſon to believe, being Convicted of the wrong he had done us, and not being able to vindicate his Arguments any longer, Publiſhes a ſort of <hi>Letter</hi> to a <hi>feigned Friend</hi> (for <hi>real ones</hi> he has none in this Controverſie) wherein he offers not the leaſt Thing in Defence of his Three firſt Arguments, nor indeed could he with any colour of Reaſon, ſo that Three Squadrons of Mr. <hi>Scipio</hi>'s Army are entirely cut off, nor had he the Courage ſo much as to attempt to recruit them: Nay, he tamely gives 'em up for <hi>Dead;</hi> and confeſſes,<note n="*" place="bottom">
+                  <hi>Letter,</hi> Page 19.</note> that the <hi>Life of the whole Arguments put together, depends on the Evidence of thoſe Matters of Fact.</hi> If his <hi>Cameronian</hi> Story, and the two other want Evidence, or do not affect the <hi>Diſſenters;</hi> then by his own Confeſſion, his Three other Arguments want <hi>Life.</hi> When he brought theſe doughty Squadrons firſt into the Field, he took it for granted they had Life and Strength in 'em, but now they are <hi>Dead</hi> and unſerviceable to him, who can help it? He ſhould have ta<g ref="char:EOLhyphen"/>ken ſome Care to cover the Carkaſſes of his ſlain Regiments, and not ſuffer their offenſive Remains to infect the Air. But when a <hi>Valiant General</hi> is reduced to thoſe extremities, as to be able only to take Care of his own Perſon; he is to be pitied, if not excus'd, for neg<g ref="char:EOLhyphen"/>lecting an Act of Piety, to which his <hi>Heroick Nature</hi> wou'd have ge<g ref="char:EOLhyphen"/>nerouſly
+<pb n="5" facs="tcp:106188:3"/>diſpos'd him. But he is not without ſome hopes, but the <hi>Cameronian-Story</hi> may inſpire Life into 'em, and give 'em a <hi>Reſurre<g ref="char:EOLhyphen"/>ction;</hi> and therefore he labours all he can to ſupport the Credit of it. The Story in ſhort is this. One Collonel <hi>Fairfax</hi> reported in a Publick Houſe at <hi>Rochdale</hi> to the Reverend Mr. <hi>Piggot</hi> and Mr. <hi>Milne,</hi> that a <hi>Scotch Cameronian</hi> had Cited this corrupt Place in a Publick Sermon.</p>
+            <p>To this I anſwer'd, 1. It is uncertain, whether Collonel <hi>Fairfax</hi> reported it, for Mr. <hi>Milne</hi> avers he never was in the Collonel's Company; ſo that the Report depends on Mr. <hi>Piggot's</hi> ſingle Teſti<g ref="char:EOLhyphen"/>mony: And ſome ſay, this is not the firſt Brat, he has impos'd on the World. 2. If the Collonel reported it, it is but a <hi>ſingle Evidence,</hi> nor does he ſay he heard the <hi>Cameronian</hi> himſelf urge this corrupt Reading, ſo that what he Depoſes, is by <hi>hear-ſay,</hi> nor does he Name the <hi>Perſon, Place,</hi> or <hi>Time.</hi> Such a <hi>blind Evidence</hi> would look ridi<g ref="char:EOLhyphen"/>culous in a Court of Juſtice. 3. I Publiſhed an Extract of the Vote of the <hi>General Aſſembly of</hi> Scotland, wherein they diſown this Cor<g ref="char:EOLhyphen"/>ruption, and declare they never heard of any in that Kingdom, that apply'd that Text to prove the People's Power in Ordaining their Miniſters. This may ground a juſt Suſpicion, that the Story was invented in <hi>Rochdale,</hi> at a Publick Houſe, for it is not ſo much as known in <hi>Scotland,</hi> nor mention'd by ſuch of the <hi>Epiſcopal Diſſenters</hi> as have Publiſh'd abundance of extravagant Stories to reproach the Government there.</p>
+            <p>Theſe things are enough to invalidate his <hi>Cameronian Story</hi> with all unprepoſſeſs'd Perſons, but the Rector, whoſe Talent lies in col<g ref="char:EOLhyphen"/>lecting and improving Stories, wou'd have the World believe <hi>Mat<g ref="char:EOLhyphen"/>ter of Fact</hi> is very true, becauſe</p>
+            <p n="1">1. <hi>'Tis plain, the Collonel believ'd it, nor would he entertain a Story without good ground,</hi> Page 20.</p>
+            <p>Soldiers and Travellers are not the moſt exact in examining the grounds of every Story they hear, and perhaps report again over their Liquors to divert the Company. 'Tis plain, that Perſons of a more <hi>ſacred Character</hi> can <hi>entertain</hi> groundleſs Stories, and <hi>entertain</hi> their Hearers with them, for want of better Matter to fill up their Hour, though <hi>perhaps</hi> the Rector is the only Man that borrows mate<g ref="char:EOLhyphen"/>rials for his <hi>Sermons</hi> out of the <hi>Can-Office.</hi>
+            </p>
+            <p>If the <hi>Collonel</hi> had <hi>good ground</hi> for his Relation, why had he not nam'd the <hi>Perſon, Time</hi> and <hi>Place?</hi> There is good Reaſon, I confeſs, why theſe Circumſtances ſhould be omitted by the <hi>Collonel</hi> and the <hi>Rector,</hi> that we might be put beyond all poſſibility of detecting the falſity of the Report.</p>
+            <pb n="6" facs="tcp:106188:4"/>
+            <p>I obſerv'd that ſuch a blind Evidence, where <hi>Perſons, Time</hi> and <hi>Place</hi> are not nam'd, wou'd look ridiculous in a Court of Juſtice, but the Rector good Man, does not pretend to obſerve the troubleſome <hi>Forms of Juſtice</hi> in the management of his Charge.</p>
+            <p>He Anſwers.</p>
+            <p n="2">2. <hi>Such Teſtimonies are not ſufficient to ground a judiciary definitive Sen<g ref="char:EOLhyphen"/>tence upon, yet they are oftentimes believ'd by the Court.</hi>
+            </p>
+            <p>By his own Confeſſion the Rector is an <hi>unjuſt Judge,</hi> for he has poſitively condemn'd us without Evidence. The Deſign of his Ser<g ref="char:EOLhyphen"/>mon, and Vindication of it, is to prove us Corrupters of the Word of God and the <hi>Evidence is blind, and wou'd not paſs in any Court of Juſtice,</hi> but that of the Rector's, as himſelf is forc'd to acknowledge. He may Believe and Judge as he pleaſes, but while he produces no other Evidence to <hi>Condemn</hi> us by, but what wou'd acquit us in all <hi>Courts of Juſtice;</hi> we will take leave to appeal from his unrighteous Sentence, to the ſober and rational Sentiments of Mankind.</p>
+            <p>He wou'd do well to tell us what ſort of <hi>Faith</hi> that is, which Courts of Juſtice give to a <hi>blind Evidence,</hi> which he ſaith, <hi>they often Believe.</hi> The Papiſts have brought an <hi>implicite Faith into the Church,</hi> but the Rector is the firſt Man that brings an <hi>implicite Faith</hi> into <hi>Courts of Juſtice.</hi> He makes them to <hi>believe</hi> an Accuſation <hi>againſt John a Nokes</hi> and <hi>John a Stile,</hi> that Mr. <hi>Some-body</hi> has committed a very great Crime, as ſuppoſe corrupting the Word of God; but the Deponent knows neither the <hi>Man,</hi> nor his <hi>Name,</hi> nor his <hi>Countrey,</hi> nor the <hi>Time when,</hi> nor the <hi>Place</hi> where the Offence was committed; nor can he ſay any thing of the Matter, but by <hi>hear-ſay.</hi> Will any Bo<g ref="char:EOLhyphen"/>dy in his ſound Mind believe this Evidence?</p>
+            <p>Surely our <hi>Learned Judges</hi> are not ſuch <hi>Credulous Coxcombs</hi> as the Rector makes 'em to be, nor can I think him ſuch a one himſelf, though for ſome Reaſons he thinks fit to abuſe the World; I preſume he has more Senſe than to believe his own Evidence, but it's no ſtrange thing for Perſons, abandon'd to unreaſonable and injurious Paſſions to abuſe the very <hi>Courts of Juſtice,</hi> that wou'd reduce them to the inoffenſive Government of Reaſon.</p>
+            <p>
+               <hi>But an Evidence</hi> (as he proceeds) <hi>may be ſufficient for private Con<g ref="char:EOLhyphen"/>viction, which will not be allow'd of in Publick Forms of Juſtice,</hi> Ibid.</p>
+            <p>It's hard to underſtand what he means by <hi>Private Conviction.</hi> Does he mean by it, that it's lawful to defame a Man upon any <hi>blind</hi> Evi<g ref="char:EOLhyphen"/>dence provided it be done behind his Back and in Private? This is to wound a Man's Reputation in Secret, and inconſiſtent with the Character of a Citizen of <hi>Sion, Pſalm</hi> 15.</p>
+            <pb n="7" facs="tcp:106188:4"/>
+            <p>Or does he mean upon ſuch an Evidence, we may entertain a <hi>Pri<g ref="char:EOLhyphen"/>vate Belief</hi> of a Man's being guilty, but can't Publiſh his Guilt, be<g ref="char:EOLhyphen"/>cause the Evidence is not according to the <hi>Publick Forms of Juſtice.</hi> Why then had not the Rector contented himſelf with his <hi>Private Faith</hi> concerning us, and not Publiſh'd our <hi>pretended Conviction</hi> to the World? A Publick Conviction ought to be according to the <hi>Publick Forms of Juſtice</hi> by his own Confeſſion, and therefore he is ſelf-con<g ref="char:EOLhyphen"/>demn'd for receding from the allow'd Rules of Juſtice.</p>
+            <p>The Rector has but one other Refuge left, and if that fails him, his <hi>Cameronian</hi> Story faſtens upon him an <hi>indelible Reproach. Paul</hi> ſaith he, <hi>accuſes ſome of the</hi> Corinthians, <hi>and he had it from ſome of the Houſe of</hi> Cloe, <hi>whom he mentions not, for diſparaging him. His Letters are weighty and powerful, but his bodily Preſence is weak and contemptible,</hi> 2 Cor. 10.10. Here was neither <hi>Perſon,</hi> nor <hi>Time,</hi> nor <hi>Place named, and yet</hi> Paul <hi>believed the Report,</hi> page 20.</p>
+            <p>To which I Anſwer.</p>
+            <p n="1">1. How does the Rector know the Apoſtle had this Information from <hi>ſome of the Houſe of</hi> Chloe? He doth not ſay ſo, 2 <hi>Cor.</hi> 10.10. But the Rector has a ſingular Faculty in diſcovering Secret Matters or rather in making bold Conjectures. He finds that thoſe of <hi>Chloe</hi> had inform'd St. <hi>Paul,</hi> that there were Contentions at <hi>Corinth,</hi> when the firſt Epiſtle was Written, 1 <hi>Cor.</hi> 1.11. And therefore he con<g ref="char:EOLhyphen"/>cludes, they muſt be his Informers when he wrote his <hi>Second Epiſtle,</hi> which was at leaſt ſome Months after.</p>
+            <p n="2">2. It was not neceſſary to Name <hi>Perſons,</hi> where no queſtion was made of the Matter of Fact, and yet it does not follow, but the Apo<g ref="char:EOLhyphen"/>ſtle knew well enough, who the Perſons were. He had good Evi<g ref="char:EOLhyphen"/>dence of the Truth of the Report, otherwiſe he had not mention'd it with ſo much Aſſurance. And perhaps, he ſuppreſs'd their Names, becauſe he wou'd not expoſe 'em to Publick Reproach, but by an in<g ref="char:EOLhyphen"/>definite Reproof reduce 'em to Repentance, 1 <hi>Cor.</hi> 4.6.</p>
+            <p n="3">3. When I ſaw the Name of St. <hi>Paul,</hi> I began to hope the Rector was coming to himſelf, and willing to imitate that great Pattern of <hi>Sincerity</hi> and <hi>Charity,</hi> which he ſo much recommends in one of his Epiſtles, to which the Rector refers us; 1 <hi>Cor.</hi> 13. but I ſoon per<g ref="char:EOLhyphen"/>ceiv'd my Error, and found that the Rector had read thoſe Epiſtles, not with deſign to Practice that <hi>Charity which thinks no Evil,</hi> 1 Cor. 13.5. But to draw in St. <hi>Paul</hi> to his Party to Patronize a <hi>falſe Ac<g ref="char:EOLhyphen"/>cuſation,</hi> tho' the Unhappineſs of it is, St. <hi>Paul</hi> mentions a Matter of Fact that no Body diſown'd; that he cou'd have prov'd on the guilty Perſons, had they deny'd it; and it never enter'd into <hi>Paul</hi>'s
+<pb n="8" facs="tcp:106188:5"/>mind to charge the whole Church of <hi>Corinth</hi> with the ſupercilious Cenſures of the few falſe Apoſtles, that were there; but our Rector mentions a Fact that no Body knows any thing, of, that he cannot prove, tho' he has left no Stone unturn'd in attempting it, and in Imitation of <hi>Haman,</hi> not of St. <hi>Paul,</hi> he imputes the ſuppoſed fault of one Perſon, and that a <hi>Scotch-man,</hi> to the whole Body of <hi>Engliſh-Diſ<g ref="char:EOLhyphen"/>ſenters.</hi>
+            </p>
+            <p n="4">4. I cannot think St. <hi>Paul</hi> got his Information in an <hi>Ale-Houſe,</hi> or from a <hi>Soldier of Fortune,</hi> or that he wou'd have been ſo credulous as the <hi>Rector's Courts of Juſtice,</hi> who oftentimes <hi>believe a ſort of blind Evidence,</hi> that affects neither <hi>Perſon, Time</hi> nor <hi>Place.</hi> The Apoſtle had more Wiſdom and Honeſty, than to receive ſuch <hi>malicious Accu<g ref="char:EOLhyphen"/>ſations.</hi> Suppoſe the Church of Corinth had remonſtrated to St. <hi>Paul,</hi> that they knew of no Perſon that had <hi>diſparag'd</hi> him, and that they diſapprov'd of ſuch a Cenſure; can any Body imagine but his Candor would have acquitted them, except he could make good his Charge by poſitive Proof. <q>Thoſe of the Church of <hi>Scotland,</hi> have diſclaim'd the Error of the Preſs, which the Rector Charges upon them, and affirm they neither know, nor can learn, that ever any in their Na<g ref="char:EOLhyphen"/>tion did apply that Error to the People's Power in making Mini<g ref="char:EOLhyphen"/>ſters.</q> But the Rector, charitable Man, ſtands to his Accuſation, and wou'd feign have it paſs for Truth, tho' he offers not any thing that looks like the ſhadow of a <hi>Proof.</hi>
+            </p>
+            <p>So much of the <hi>Cameronian</hi> Fable.</p>
+            <p>As to his Story of Mr. <hi>Jolly</hi>'s alledging this corrupt Reading, in Diſcourſe with Mr. <hi>Elliſon</hi> at <hi>Duckenfield-Hall:</hi> 
+               <q>I told him, that He and Mr. <hi>Elliſon</hi> are well-advis'd in their Reports; the one tells a Story of a nameleſs <hi>Cameronian</hi> in <hi>another Kingdom,</hi> the other Names his Perſon, but you muſt find him in <hi>another World,</hi> for he was Dead before this Report of him was Publiſh'd; they are reſolv'd to put us out of all hopes of being ever able to examine the Truth of their Tales.</q>
+            </p>
+            <p>The Rector anſwers, <hi>There are thoſe that can tell Mr.</hi> Owen, <hi>there was ſuch a Miniſter as Mr.</hi> Jolly, <hi>there is ſuch a Place as</hi> Duckenfield-Hall, <hi>&amp;c.</hi>
+            </p>
+            <p>How does this prove the thing in Hand? Does it follow, becauſe there was ſuch a Man as Mr. <hi>Jolly</hi> at <hi>Duckenfield-Hall,</hi> and ſuppoſe engag'd with Mr. <hi>Elliſon</hi> in ſome Diſpute about <hi>Church-Government.</hi> That he muſt be a. Corrupter of the Word of God? This is as con<g ref="char:EOLhyphen"/>cluding, as the Rector's Argument concerning <hi>Cambridge,</hi> 1638. He found there as he thought five or ſix <hi>Presbyterians</hi> among Two Thou<g ref="char:EOLhyphen"/>ſand
+<pb n="9" facs="tcp:106188:5"/>Scholars, therefore they were the Authors of the Corruption in <hi>Acts</hi> 3.6.</p>
+            <p>Mr. <hi>Elliſon</hi>'s Teſtimony is a <hi>ſingle one,</hi> and againſt a Dead Man, who cannot Anſwer for himſelf.</p>
+            <p>
+               <hi>True, ſaith the Rector, but no Judge, but upon ſuch Teſtimonies wou'd Decree the Nuncupative Will of a Deceaſed Perſon good and valid,</hi> p. 21.</p>
+            <p>No Judge wou'd Decree a <hi>Nuncupative Will</hi> good upon a ſingle Te<g ref="char:EOLhyphen"/>ſtimony. Our Law requires the Oaths of three Witneſſes, if the Eſtate bequeath'd be conſiderable; nor doth it admit any Teſtimony of a Nuncupative Will after ſix Month, unleſs it were committed to Wri<g ref="char:EOLhyphen"/>ting within ſix Days after making the ſaid Will, Stat. 19. <hi>Car.</hi> II. Cap. 3. So careful is the Law to prevent <hi>Frauds and Forgeries,</hi> reſpe<g ref="char:EOLhyphen"/>cting the Dead. I inquire not, whether there are not more than <hi>ſix Months</hi> between the reporting of this Story, and the Time of the pre<g ref="char:EOLhyphen"/>tended Diſpute, and whether it was Written within ſix Days after. Be that Matter as it will, Mr. <hi>Elliſon</hi>'s <hi>ſingle Evidence</hi> againſt the <hi>Dead</hi> is not <hi>legal,</hi> as the Rector ignorantly inſinuates</p>
+            <p>I am told, that Mr. <hi>Jolly</hi> was look'd upon as <hi>Presbyterian</hi> in his Judgment, and it is not likely he wou'd urge a corrupt Text to vin<g ref="char:EOLhyphen"/>dicate an Opinion, that was inconſiſtent with his Principles.</p>
+            <p>So much of the <hi>Duckenfield-Hall</hi> Story.</p>
+            <p>I ſhall ſpeak a Word or two to the <hi>Bolton</hi>-Story, which is this. <q>A Gentleman, now living in <hi>Bolton</hi> heard ſome <hi>Diſſenters</hi> cite <hi>Acts</hi> 6. as the <hi>Cameronian</hi> did, and they appealed to the <hi>Scotch</hi> Bible.</q>
+            </p>
+            <p>To this I anſwer'd, that I ſuſpected the Truth of this Story, be<g ref="char:EOLhyphen"/>cauſe few of the <hi>Scotch</hi>-Bibles are miſprinted, as I made it appear by a Catalogue of the Editions, the two that were miſprinted there were under the Biſhops.</p>
+            <p>The Rector wiſely over-looks this, as he does moſt of my Book, but according to his uſual <hi>Modeſty;</hi> he ſaith, <hi>The Story is an unex<g ref="char:EOLhyphen"/>ceptionable Proof of what it was produced for,</hi> p. 21.</p>
+            <p>That part of it that concerns the <hi>Scotch-Bibles,</hi> I have detected to be falſe. When a Man is found to falter in one part of a Story, the Credit of the whole is juſtly ſuſpected.</p>
+            <p>The <hi>Bolton</hi> Gentleman is alſo a <hi>ſingle Witneſs,</hi> and Names no <hi>Per<g ref="char:EOLhyphen"/>ſons,</hi> nor appears above Board himſelf Truth needs not ſneak into Corners, it dares ſhew it's Face, and fears no Oppoſition. There is ſomething of <hi>Myſtery</hi> in it, that this Witneſs conceals his own <hi>Name,</hi> and thoſe of the accuſed <hi>Diſſenters.</hi> I am apt to think they may be <hi>alive</hi> as well as the Gentleman. I ſuppoſe, if they had been <hi>Dead,</hi> we ſhould have had their Names enroll'd with Mr. <hi>Jolly</hi>'s. But ſup<g ref="char:EOLhyphen"/>poſe theſe Stories had been true, they cannot affect the whole Body of <hi>Diſſenters.</hi>
+            </p>
+            <pb n="10" facs="tcp:106188:6"/>
+            <p>I have now anſwer'd all that the Rector has to ſay in Confirmati<g ref="char:EOLhyphen"/>on of his Charge, and appeal to the World, whether this Man has done us common Juſtice. All his Four Arguments are dwindled into <hi>one,</hi> which contains <hi>Matter of Fact.</hi> He confeſſes himſelf, that the <hi>Life of the whole Argument put together, depends on the Evidence of thoſe Matters, of Fact</hi> which makes his Fourth Argument.</p>
+            <p>Now ſince his <hi>Matters of Fact</hi> want <hi>legal Evidence,</hi> his Three for<g ref="char:EOLhyphen"/>mer Arguments, which he has deſerted, are deſtitute of <hi>Life</hi> by his own Confeſſion.</p>
+            <p>Thus all the Forces of this mighty Warrier are routed<note n="*" place="bottom">Iſaiah. 28.15.</note>, and tho' he has <hi>made Lies his laſt Refuge,</hi> this alſo not only fails him, but ex<g ref="char:EOLhyphen"/>poſes him to the vindictive Stroaks of victorious Truth, whoſe Tri<g ref="char:EOLhyphen"/>umphant Chariot he follows with ſuch a <hi>diſpirited Aſpect,</hi> as if he wou'd move the Compaſſions of the Spectators, and implore the kind Interceſſions of his Reader, that his <hi>expiring Reputation</hi> be not made a <hi>Victim</hi> to the juſt Reſentments of injur'd Innocence. One while he is <hi>content to ſurrender the Intereſts of his Reputation to the</hi> Diſſenters, <hi>p.</hi> 26. He hopes they'll be ſo kind to him, as not to condemn him for <hi>Fool,</hi> or Knave, or <hi>Impudent,</hi> or <hi>Blaſphemer,</hi> Ibid. Our <hi>Scipio An<g ref="char:EOLhyphen"/>glicanus</hi> cries Quarter, and hopes for Mercy at their Hands, tho' he has injur'd them to the utmoſt of his Power. He knows the Men, that they are like the <hi>Kings of Iſrael,</hi> of a <hi>merciful</hi> Diſpoſition, but then he ought to make his addreſs with a <hi>Rope about his Neck,</hi> as the <hi>Sy<g ref="char:EOLhyphen"/>rian General</hi> did before him; humbly acknowledging his Crime, and I dare Promiſe for 'em, they'll paſs a very favourable Sentence upon him. Another while he pretends, he <hi>could have anſwer'd every Pa<g ref="char:EOLhyphen"/>ragraph in my Vindication, but to what Purpoſe? When ſhall we have an end?</hi> p. 26. Who dare Queſtion the Rector's Abilities to Anſwer my Book, ſince he gives no Proof of 'em? But <hi>to what Purpoſe</hi> ſhould a Man, who is ſufficiently baſtinadoed procure to himſelf more blows? It is a wiſer part <hi>to end the Matter,</hi> let him ceaſe his unjuſt Crimina<g ref="char:EOLhyphen"/>tions, and we ſhall ſoon <hi>make an end;</hi> and until he does ſo, let him expect the Chaſtiſement that is due <hi>unto bold and obſtinate Calumnia<g ref="char:EOLhyphen"/>tors.</hi> He complains I give him hard Words, to which I anſwer in the Words of <hi>Veſpaſian</hi> the Emperor, <hi>Qui Prior laceſſivit ſeipſum Prae<g ref="char:EOLhyphen"/>rogativâ dignitatis privavit.</hi> The Rector by publiſhing ſo baſe and groundleſs a Calumny, and attempting to juſtifie it againſt the moſt convictive Reaſon, has forfeited the Benefit of thoſe Civilities that are owing to a fair Adverſary. He <hi>brags</hi> he has made <hi>War</hi> upon us, and then complains of <hi>hard blows.</hi>
+            </p>
+            <pb n="11" facs="tcp:106188:6"/>
+            <p>His Sermon, and the Defence of it, abound with the rudeſt Inve<g ref="char:EOLhyphen"/>ctives. But he pretends, <hi>that he has engag'd himſelf by Promiſe not to Anſwer a Fool according to his Folly,</hi> Prov. 26.4. Which he ſays, <hi>he'll religiouſly obſerve,</hi> Lett. <hi>p.</hi> 1. He promiſes <hi>not to give ill Language,</hi> (Ibid.) and in the ſame Breath calls, me <hi>Fool.</hi> It ſeems, to call a Man <hi>Fool</hi> is no <hi>ill Language</hi> with the Rector, whatever it was in Chriſt's account<note n="*" place="bottom">Mat. 5.22.</note>. How <hi>religiouſly</hi> he obſerves his Promiſe, the Rea<g ref="char:EOLhyphen"/>der may obſerve in ſeveral Inſtances. In <hi>p.</hi> 19. he compares us to Malefactors that have Brow enough to aſſert their Innocence, when the <hi>Halter is about their Necks.</hi> In <hi>p.</hi> 23. he ſaith, they ſeem to by of the Humor of that <hi>leud Soldier,</hi> who excus'd himſelf thus, that the Commandment is, <hi>thou ſhalt not,</hi> but not <hi>I ſhall not.</hi> In <hi>p.</hi> 26. he ſuggeſts by way of Query, <hi>Whether Mr.</hi> O. <hi>has not done what in him lies to deſerve the Character of a great Rogue,</hi> for affirming that the Re<g ref="char:EOLhyphen"/>ctor had given him that Character in his <hi>R. R.</hi> p. 58. to which Mr. <hi>O.</hi> ſtill appeals. It is true, he does it by a <hi>ſly Inſinuation,</hi> and be<g ref="char:EOLhyphen"/>cauſe I take notice of his calling me ſo, he pretends that I miſrepre<g ref="char:EOLhyphen"/>ſent him, and deſerve that Character for ſo doing. I only mention theſe things as inſtances of his <hi>Religious Performance</hi> of his Promiſe, not to give <hi>ill Language. Naturam expellas furca licet. Can the Ethi<g ref="char:EOLhyphen"/>opian change his Skin?</hi>
+            </p>
+            <p>He falls foul on the <hi>Note-maker,</hi> p. 22. in whom I am not con<g ref="char:EOLhyphen"/>cern'd: It wou'd have look'd more honourable in the Rector to have anſwer'd his Arguments, than to ſet up for <hi>Informer General,</hi> to ac<g ref="char:EOLhyphen"/>cuſe the whole Body of <hi>Diſſenters</hi> of a Crime he can never prove up<g ref="char:EOLhyphen"/>on 'em.</p>
+            <p>In <hi>p.</hi> 23. he reflects on Mr. <hi>Baxter,</hi> but not a word of his cor<g ref="char:EOLhyphen"/>rupting the Scripture, by leaving out <hi>theſe</hi> in <hi>Acts</hi> 15.28. Since I ſhew'd him the like Omiſſion in the <hi>Homilies of the Church.</hi>
+            </p>
+            <p>He wiſely overlooks this Crime, which he had aggravated in the Epiſtle before his Sermon, and in his <hi>Remark upon Remark</hi> But now he ſilently diſmiſſes Mr. <hi>B.</hi> whom he cannot Condemn without in<g ref="char:EOLhyphen"/>volving himſelf and the <hi>Church of England</hi> in the ſame Sentence.</p>
+            <p>Now ſuppoſe a Man of Mr. <hi>Gips</hi> his Temper, ſhou'd take up his Arguments againſt Mr. <hi>B.</hi> and retort it upon the Church of <hi>England;</hi> by affirming, that the Church <hi>hath cunningly left out the Word (theſe) merely to ſupport her Propoſition, and hath not had the Ingenuity to confeſs her Error, nor yet the Courage to Palliate it with any excuſe</hi>
+               <note n="†" place="bottom">Epiſtle before his Sermon.</note> no, nor has her Champion, the Courage to do it for her, <hi>tho' he has been told of it</hi>
+               <note n="‖" place="bottom">Ibid.</note>. And he is the more concern'd to do it, becauſe he has ſub<g ref="char:EOLhyphen"/>ſcribed
+<pb n="12" facs="tcp:106188:7"/>her <hi>Homilies,</hi> which the <hi>Diſſenters</hi> have not done, and ſo made himſelf acceſſory to the Corruption.</p>
+            <p>Though the Rector has diſingennouſly <hi>deſerted</hi> the Church, and left her <hi>unvindicated</hi> under the odious Imputation of <hi>corrupting the Word of God,</hi> I will be ſo juſt to her, as to acquit her from ſo black a Charge. It was not the Deſign of the Compilers of the <hi>Homilies,</hi> nor of Mr. <hi>B.</hi> to quote the very Words of Scripture, nor was the Omiſſion of the word <hi>theſe</hi> deſign'd for any ill ends by either of 'em.</p>
+            <p>I ſhall now return to the former Part of his Letter, and can't but take notice what an Artiſt the Rector is in methodizing his Epiſtle. The principal Controverſie between him and me; was, <hi>Whether the</hi> Diſſenters <hi>were corrupters of the Word of God?</hi> The other about the <hi>Titles of the Pſalms,</hi> and the <hi>Corruption of the Hebrew Copies</hi> came in accidentally, and therefore I threw it into a <hi>Poſt-ſcript</hi> by it ſelf, that it might not interfere with the <hi>main Point</hi> in debate.</p>
+            <p>The Rector being ſenſible that he is quite baffled in the principal Controverſie between us, and having nothing material to offer more upon that Subject, begins his Letter with Animadverſions on my <hi>Poſt-Script,</hi> and comes not to the <hi>main point,</hi> viz. His charge exhi<g ref="char:EOLhyphen"/>bited againſt the <hi>Diſſenters of corrupting the Word of God,</hi> untill <hi>P.</hi> 19. and then ſpeaks next to nothing of it. All he has to ſay to the principal Subject in debate, takes up but <hi>Three Pages of his Letter,</hi> which conſiſts of Twenty-ſeven in all. Had he been able to ſay more to it, to be ſure he would have done it, for he ſtill ſhews his <hi>Good-will</hi> to the Cauſe; and would have the World believe the <hi>main charge is beyond all Controverſie, P.</hi> 19. Since he can defend it no longer, he wou'd perſwade us to be ſo good Natured, as to let it paſs <hi>without any further Controverſie;</hi> and if we don't, we are like <hi>thoſe Malefactors that aſſert their Innocence, when the Halter is about their Necks,</hi> &amp;c. <hi>P.</hi> 19. If our <hi>Accuſer</hi> had the Honour to be our Execu<g ref="char:EOLhyphen"/>tioner, I ſee we muſt expect little Mercy at his Hands, We muſt all undergo the Fate of <hi>Saul's Seven Children,</hi> who were hung up before the Lord for their Fathers Sin. And it would be no Relief to us to aſſert our <hi>Innocency,</hi> for we muſt bear the Error of the <hi>Scotch-Ca<g ref="char:EOLhyphen"/>meronian.</hi> And if we ſay, this is hard meaſure, to Impute the fault of one Man to all <hi>Diſſenters,</hi> the Rector Anſwers, that this muſt needs be juſt, becauſe <hi>Saul's offence was Reveng'd upon Seven of his Children.</hi> R. R. <hi>P.</hi> 48. The Rector is a Man that loves to harp upon the ſame <hi>String</hi> in all his <hi>Compoſures,</hi> and were we to ſtand at his Bar, I much doubt, whether he would allow us <hi>the Benefit of the Clergy;</hi> and if ſuch a favour were granted us: I fear we ſhould ſcarce read our <hi>Neck-verſe,</hi> without being condemn'd for <hi>Corrupting the Word of God.</hi>
+            </p>
+            <pb n="13" facs="tcp:106188:7"/>
+            <p>But to return, from this <hi>Hanging Digreſſion,</hi> to his Animadver<g ref="char:EOLhyphen"/>ſions, on my <hi>Poſt-Script,</hi> wherein I aſſerted, <hi>the Divine Authority of the Titles of the Pſalms and the purity of the Hebrew Text.</hi>
+            </p>
+            <p>As to the Firſt of theſe, the Rector does not pretend to <hi>Anſwer</hi> my Arguments for the Divine Authority of the <hi>Titles,</hi> or to <hi>Vindi<g ref="char:EOLhyphen"/>cate</hi> his own againſt it; and the Reaſon of this omiſſion is obvious: For where he thinks he has any thing, that he can take Advantage of he lays hold on it. He ſays, <hi>P.</hi> 2. That I <hi>give him Words of Braſs,</hi> by pronouncing him a <hi>Blaſphemer,</hi> for <hi>ſaying that many of the Titles were to no Purpoſe at all.</hi> I did not expreſly call him ſo, but what I ſaid I ſay again. <q>That it wou'd have look'd more modeſt in him, to have ſaid, we underſtand not the uſe of many <hi>Titles;</hi> than boldly, if not Blaſphemouſly, to Charge the Spirit of God with <hi>Impertinencies,</hi> 
+                  <bibl>Vind. <hi>P.</hi> 44.</bibl>
+               </q> And in another Place to ſay, that <hi>Pſalm,</hi> 72 20. <hi>Is manifeſtly falſe if the Title be true,</hi> R. R. <hi>P.</hi> 13. Many would call this <hi>Blaſphemy,</hi> but I do not. It is a very poor Shift, by which he would mollifie his Words, <hi>the Titles are to no Pur<g ref="char:EOLhyphen"/>poſe at all;</hi> that is, they are not uſeful to unfold Myſteries, <hi>Let. P.</hi> 2. <hi>To no Purpoſe, and to ſuch a Purpoſe</hi> are very different things; ſuch as do not unfold Myſteries may be uſeful to other Ends.</p>
+            <p>
+               <hi>But they are more myſterious, ſays he, than the Pſalms themſelves; and the Spirit of God would not explain, Obſcurum per Obſcurius.</hi> All are not ſo, and thoſe that are obſcure to us, might be otherwiſe to the old <hi>Hebrews.</hi>
+            </p>
+            <p>
+               <hi>Greg. Nyſſen obſerved</hi> (as the Rector adds) <hi>that there was not an entire Agreement between, the Chriſtians and the Jews about the Titles, which Mr. O. has declin'd to Anſwer to, P.</hi> 3. You ſee, tho' the Rector cannot Anſwer my Arguments, nor defend his own, he ſtudies every little Advantage. I told him, I had not <hi>Greg,</hi> by me, tho' I ſee nothing in him as he repreſents him, that makes againſt my Ar<g ref="char:EOLhyphen"/>gument. There is not an entire Agreement, between the <hi>Greek</hi> Bible which was in the Hands of the Chriſtians, and the <hi>Hebrew</hi> Bible to this day, in many more things than the <hi>Titles</hi> of the <hi>Pſalms,</hi> and yet we receive the <hi>Hebrew</hi> Bible as Divinely inſpir'd; and ſo we do the <hi>Titles</hi> of the Pſalms.</p>
+            <p>But, if the Rector cannot defend his <hi>old Arguments,</hi> he hath found out a <hi>new one,</hi> which is this: <hi>The Titles of the ſeveral Books of Scripture, are not Canonical; and the Titles of the Pſalms muſt run the ſame fate, P.</hi> 3, 4, 5. And why ſo good Sir?</p>
+            <p n="1">1. The Titles of the Books of Scripture, are acknowledg'd to be human Additions; I never met with any Author, <hi>Jewiſh</hi> or <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> that affirms them to be Canonical; but the <hi>Titles</hi> of the
+<pb n="14" facs="tcp:106188:8"/>Pſalms, are reputed Canonical, by the <hi>Chriſtian</hi> and <hi>Jewiſh</hi> Doctors; and commented upon by them as ſuch, whereas they rarely take notice of the <hi>Titles</hi> of the Books of Scripture, except it be now and then, to tell us that they bear ſuch Titles.</p>
+            <p n="2">2. The Titles of the Books of the old Teſtament, in our <hi>Hebrew</hi> Bibles are put by themſelves, as diſtinct from the reſt of the Books; and are made the running Titles in the top of the Leaves. But, the Titles of the Pſalms are made part of the Pſalms themſelves, in all our <hi>Hebrew</hi> Bibles, in which the Title, if there be any to the Pſalm, is always the firſt Verſe.</p>
+            <p n="3">3. All the Books of the Bible have Titles, but ſo have not all the Pſalms; If they had been <hi>human Additions,</hi> it had been as eaſie to have given a Title to each Pſalm, as to each Book of the Bible, but the ancient <hi>Jews,</hi> who durſt not add to the Word of God, would not prefix <hi>Titles</hi> to thoſe Pſalms, which originally had none.</p>
+            <p>
+               <hi>The Books of the Prophets, as he goes on, are thus entitled, the Book of the Prophet Iſaiah,</hi> &amp;c. <hi>I cannot think the Inſpir'd Prophets ſet theſe Titles on the head of their Books.</hi>
+            </p>
+            <p>Here the Rector <hi>thinks</hi> aright, for the Title he mentions is to be found only in the <hi>Engliſh Tranſlation;</hi> the <hi>Hebrew</hi> and <hi>Greek</hi> Bibles which he had not diligence enough to conſult, have no more than <hi>Iſaiah.</hi>
+            </p>
+            <p>He nibbles at a conceſſion of Mine, that it was a prevailing Opi<g ref="char:EOLhyphen"/>nion, that all the Pſalms were pen'd by <hi>David, what then,</hi> demands he, <hi>will become of the Title of the</hi> 90. <hi>Pſalm? P.</hi> 5.</p>
+            <p>I obviated this Query in the very next Line, out of <hi>Theodoret,</hi> who ſays, <hi>David</hi> wrote it, but adapted it to <hi>Moſes.</hi> 
+               <q>I told the Rector that I preſum'd the Titles were left out of the Liturgy Pſalms, becauſe they were deſign'd to be Sung. <bibl>
+                     <hi>Vind. P.</hi> 53.</bibl>
+               </q> 
+               <hi>'Tis my very Plea in Defence of the Church of</hi> England<note n="*" place="bottom">
+                  <hi>Letter,</hi> Page 6.</note>, ſaith he: But you muſt thank me for it, Mr. Rector, for you thought of no ſuch <hi>Plea</hi> in your Sermon, but call on the <hi>Diſſenters,</hi> to prefix the Titles to the Singing Pſalms, if they be part of Scripture. I objected, that in the Pariſh Churches, the Pſalms that want Titles are read. True, ſaith the Rector, <hi>'tis the fault of ſome, the crime of others, the unhappineſs of others, who cannot prevail, with their People to bear a part in the rehaerſing of them; for the order of the Church is, that they be ſaid or ſung, ſaid, that is at leaſt repeated</hi> alternatim, <hi>by Miniſter and People, which is a Species of ſinging. P.</hi> 6.</p>
+            <p>If the order be <hi>ſay or ſing,</hi> Firſt, how can it be a <hi>Fault,</hi> a <hi>Crime,</hi>
+               <pb n="15" facs="tcp:106188:8"/>to ſay the Pſalms and not to <hi>ſing</hi> them, the <hi>Rubric</hi> allows both, and therefore both are lawful. No wonder the Rector charges us with <hi>Crimes</hi> he cannot prove, ſince he doth ſo by his own Brethren, he makes 'em <hi>Criminals</hi> for doing what the <hi>Rubric</hi> bids 'em do.</p>
+            <p>Secondly, I thought <hi>ſaying</hi> and <hi>ſinging,</hi> being mention'd <hi>disjunctively,</hi> were different things, but with the Rector, <hi>ſaying</hi> is a Species of <hi>ſing<g ref="char:EOLhyphen"/>ing.</hi> Does not this Man <hi>Ridicule the Rubric of the Church,</hi> by make<g ref="char:EOLhyphen"/>ing it ſpeak Non-ſenſe? <hi>ſay or ſing,</hi> that is, according to the Rector's Expoſition, <hi>ſing or ſay.</hi> This looks like defaming the <hi>Common-Prayer,</hi> for which I remit him to the Cenſure of his Ordinary.</p>
+            <p>Thirdly, I never yet cou'd ſee any <hi>Rubric</hi> or Canon for reading the Pſalms <hi>alternatim,</hi> Authors make mention of <hi>alternate ſinging,</hi> which was us'd with great variety in ancient Times.</p>
+            <p>
+               <note n="*" place="bottom">
+                  <hi>Epiſt.</hi> 36.</note> 
+               <hi>Baſil</hi> ſaith, the Congregation was divided into two Parts, and ſung <hi>alternately</hi> one to another.</p>
+            <p>
+               <note n="†" place="bottom">
+                  <hi>Chr.</hi> 1 Cor. 14. <hi>Hom.</hi> 36. <hi>ad finem.</hi>
+               </note>
+               <hi>Chryſoſtom</hi> ſeems to allow the People no part in ſinging, but the ecchoing out, of the laſt Word of the Verſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> —, He that ſingeth, ſingeth alone, and all the reſt <hi>Eccho</hi> forth the laſt Words. And it may be, this is the meaning of the Council of <hi>Laodicea,</hi> Can. 15. Wherein they forbid all ſinging in the Church, except by the <hi>Regular Singers.</hi>
+            </p>
+            <p>
+               <hi>Gregory</hi> the Great, forbids any to ſing in the Church but the <hi>Infe<g ref="char:EOLhyphen"/>rior Orders,</hi> as the Sub-Deacons, <hi>&amp;c. Lib.</hi> 4. <hi>c.</hi> 88. Perhaps he had an Eye to this Canon. <hi>Dionyſius,</hi> who goes under the Name of the <hi>Areopagite,</hi> ſays, that the Biſhop with the whole <hi>Eccleſiaſtical Order</hi> ſing the Sacred Hymns, <hi>Eccleſ. Hierarch.</hi> c. 3. It ſeems the People were wholly excluded from the Publick Praiſes. The way of ſinging <hi>alternately</hi> is very ancient, ſome derive it from <hi>Moſes</hi> and <hi>Miriam,</hi> Exod. 15.21. <hi>And Miriam anſwered them,</hi> &amp;c. But it is uncertain how <hi>Miriam</hi> and the Women of <hi>Iſrael</hi> ſung, whether they ſung in their Dances, the very ſame Words that <hi>Moſes</hi> and the Men of <hi>Iſrael</hi> ſung, or whether they ſung the firſt Verſe of <hi>Moſes</hi>'s Song by way of Intercalation, as the Burden of that Song; and it may be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>an<g ref="char:EOLhyphen"/>ſwer'd,</hi> ſignifies no more than <hi>ſhe ſaid,</hi> in which Senſe the Word <hi>Anſwer</hi> is us'd in the New Teſtament, <hi>Matth.</hi> 11.25. But its evi<g ref="char:EOLhyphen"/>dent here, that it was different from the Manner of reading the Pſalms with us, for <hi>Miriam</hi> and the Women ſung the <hi>firſt Verſe</hi> of <hi>Moſes</hi> Song, and with us the Miniſter reads the firſt Verſe of the Pſalm, which the People neither Read nor Sing.</p>
+            <p>It ſhould ſeem by <hi>Joſephus,</hi> that the <hi>Levites</hi> only ſung in the Tem<g ref="char:EOLhyphen"/>ple
+<pb n="16" facs="tcp:106188:9"/>at <hi>Jeruſalem</hi>
+               <note n="*" place="bottom">
+                  <hi>Antiq. Judaic.</hi> XX. 8.</note>. The <hi>Eſſenes,</hi> as <hi>Philo</hi> affirms, had one chief Singer, who ſung alone until he came to the laſt Words, then all the People join'd with him<note n="‖" place="bottom">Euſeb. Hiſt. <hi>II. 16.</hi> Edit. Chriſt. &amp; Philo de vitâ Contempl.</note>.</p>
+            <p>This way of Singing by Parts was uſed by the ancient <hi>Heathens,</hi> as appears by that in <hi>Homer</hi>
+               <note n="†" place="bottom">Iliad. à verſùs fin.</note>, who repreſents the Muſes ſinging <hi>alternately.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>The firſt Man that appointed <hi>Antiphons</hi> or Reſponſory Singing in <hi>Conſtantinople</hi> was <hi>Chryſoſtom,</hi> in Emulation of the <hi>Arians,</hi> as <hi>So<g ref="char:EOLhyphen"/>crates</hi> affirms. <hi>Eccl. Hiſt.</hi> VI. 8.</p>
+            <p>
+               <hi>Nicephorus</hi> aſcribes the Invention of <hi>Antiphons</hi> to <hi>Ignatius,</hi> who in a Viſion heard the Angels praiſing the Trinity in <hi>Reſponſory Hymns,</hi> which he thereupon introduc'd into the Church of <hi>Antioch.</hi> Eccl. Hiſt. XIII. 8.</p>
+            <p>But be this matter as it will, there is no Precedent that ever I could meet with for <hi>Reading</hi> the Pſalms <hi>alternately,</hi> nor cou'd I ever find either <hi>Canon</hi> or <hi>Rubric</hi> for it in the Church of <hi>England.</hi> And if there be neither, it looks like a piece of <hi>Will-Worſhip,</hi> that can neither be warranted by the Laws of God nor Man. It ſeems nei<g ref="char:EOLhyphen"/>ther <hi>decent</hi> nor <hi>orderly,</hi> nor agreeable to the Apoſtle's Rule, that a <hi>Woman ſhould not ſpeak in the Church:</hi> And in our Pariſh-Churches, they <hi>ſpeak</hi> as loud as the Men. If Reading be Teaching or Preach<g ref="char:EOLhyphen"/>ing, as ſome Doctors of the Church have affirm'd, particularly the preſent Biſhop of <hi>Derry,</hi> our Reading Women uſurp the Office of <hi>Teachers</hi> in the Church, and thereby ſtrengthen the Hands of the <hi>Quaker's Women-Preachers.</hi> This way of Reading the Pſalms, fills the Congregation with a confus'd noiſe, that the Ignorant that cannot Read, underſtand not one Word that is ſaid. <hi>Cyprian</hi> Condemns <hi>tumultuous Lopuacity</hi> in our Devotions.</p>
+            <p>
+               <hi>Non paſſim ventilare preces noſtras inconditis vocibus, nec Petitionem, commendandum modeſtè Deo, tumultuoſâ Loquacitate jactare,</hi> De Orat. Dom.</p>
+            <p>I affirm'd, <q>That the not Reading of the Titles (in the <hi>Parochi<g ref="char:EOLhyphen"/>al Aſſemblies</hi> which I had mention'd a little before) was an <hi>Inno<g ref="char:EOLhyphen"/>cent Omiſſion,</hi> but the Rectors attempt to thruſt 'em out of the Ho<g ref="char:EOLhyphen"/>ly Canon was Vile and Impious.</q>
+            </p>
+            <p>The Rector applies this <hi>Omiſſion</hi> to the <hi>Diſſenters,</hi> and cries Hem! An
+<pb n="17" facs="tcp:106188:9"/>
+               <hi>on Innocent Omiſſion?</hi> no, ſaith he, 'tis a <hi>Sacrilegious Omiſſion,</hi> Lett. <hi>P.</hi> 7. This blind Combatant, by attempting to wound his <hi>Enemies</hi> as he calls them, Stabs his own <hi>Friends,</hi> and makes them guilty of a <hi>Sacrilegious Omiſſion:</hi> The <hi>Diſſenters</hi> do read the Titles of the reading Pſalms.</p>
+            <p>The Rector proceeds in the next Place to conſider the <hi>Hebrew Copies,</hi> which he ſays are much <hi>corrupted,</hi> and becauſe St. <hi>Jerom</hi> aſſerts the Purity of 'em; he perſecuttes him with the ſame malignity as he does the <hi>Diſſenters.</hi> I rebuk'd him in my <hi>Vind.</hi> for his indecent Uſage, of ſo Holy and Learned a Father, and ſo eminent a Champion for the Chriſtian Cauſe, againſt all ſorts of Oppoſers, I refer the Reader to his Character, and my Defence of him againſt the Rector's Calum<g ref="char:EOLhyphen"/>nies, <hi>Poſt-Script</hi> C. 3. He ſeverely Cenſures Mr. <hi>Baxter,</hi> both in his <hi>R. R.</hi> P. 61. and in his Lett. <hi>P.</hi> 23. For <hi>expoſing the Infirmi<g ref="char:EOLhyphen"/>ties of the Fathers, to whoſe Zeal and Learning, we owe our Religion un<g ref="char:EOLhyphen"/>der God;</hi> and yet flings all the dirt on St. <hi>Jerom,</hi> one of the moſt eminent of 'em, which <hi>Malice and Rage and intemperate Zeal,</hi> (they are his own Words of Mr. <hi>Baxter</hi>) could furniſh him with. He treats him more baſely than ever <hi>Ruffinus,</hi> his profeſs'd Adverſary has done. His Great Name in the Chriſtian World is too venerable to ſuffer any Diminution by the Rector's ſelf-condemning reflections, and needs not any Apology of mine. Therefore I will conſider what he has to offer againſt the Purity of the <hi>Hebrew Bibles,</hi> which he wou'd have us believe are corrupted in <hi>material Things.</hi>
+            </p>
+            <p>
+               <hi>The Truths of Revelation,</hi> ſays he, <hi>are to be ſought for not out of the Hebrew Texts only, nor out of the</hi> Lxx. <hi>only, but out of both together, with all other antient Tranſlations, and the numerous quotations of Scripture in the Fathers. P.</hi> 11. The meaning of this Harangue, is, that there might be patch'd up a <hi>compleat Bible</hi> or a perfect Syſtem of reveal'd <hi>Truths</hi> out of the <hi>Hebrew,</hi> Lxx. other Tranſlations and Quotations of the Fathers; but none of theſe <hi>alone</hi> contain all <hi>Truths of Revelation.</hi> The Papiſts ſend us to the ancient Fathers for the Senſe of Scriptures, but the Rector remits us to them for the Scriptures themſelves. He wou'd do well to favour the World with a <hi>Compleat Collection of the Truths of Revelation,</hi> out of all theſe Stores, which are inacceſſible to the Unlearned, and he is the more oblig'd to do it becauſe he has condemn'd our <hi>Corrupt</hi> Bibles to be burnt.</p>
+            <p>I offer'd <hi>four</hi> Arguments for the Purity of the <hi>Hebrew Copies,</hi> which I vindicated and confirm'd.</p>
+            <p>The Rector touches at <hi>the firſt,</hi> over looks the <hi>Second</hi> and <hi>Third,</hi> and ſplits the <hi>Foruth</hi> into <hi>Two.</hi>
+            </p>
+            <p>My firſt was, <q>That the <hi>Hebrew Bible</hi> was incorrupt in our Savi<g ref="char:EOLhyphen"/>our's
+<pb n="18" facs="tcp:106188:10"/>Time, becauſe he never charg'd the <hi>Jews</hi> with corrupting the Scriptures.</q>
+            </p>
+            <p>
+               <hi>No more,</hi> anſwers he, <hi>do the Apoſtles Charge them with corrupting the</hi> LXX. <hi>P.</hi> 11. I don't ſay the LXX. was corrupted at that Time, there were Authentick incorrupt Copies of it even in <hi>Origen's</hi> Time. <hi>They were corrupted,</hi> ſaith he, <hi>before Ezra's Time, (according to moſt of the Fathers) and therefore much more between Ezra and Chriſt, P.</hi> 12.</p>
+            <p>
+               <hi>Clemens Alexandrinus</hi> and moſt of the Fathers ſay, that the Scrip<g ref="char:EOLhyphen"/>tures were <hi>loſt,</hi> not <hi>corrupted</hi> in <hi>Babilon,</hi> and reſtored by a Spirit of Inſpiration by <hi>Ezra</hi>
+               <note n="*" place="bottom">
+                  <hi>Strom.</hi> l. 1.</note>. The ſame is affirm'd by <hi>Ireneus</hi> and <hi>Euſebius</hi>
+               <note n="†" place="bottom">
+                  <hi>Hiſt. Eccl.</hi> v. 8.</note> Admitting they were <hi>corrupted</hi> before <hi>Ezra's</hi> Time, of which there is no certainty, it does not follow they were <hi>corrupted</hi> after, becauſe the <hi>Maſora,</hi> which was invented in <hi>Ezra's</hi> Time, was an effectual means to preſerve the Purity of them; this was my Third Argument, but the Rector takes no notice of it. Beſides, the Captivity cured the <hi>Jews</hi> of their Idolatrous Diſpoſition, and made them more Zea<g ref="char:EOLhyphen"/>lous for the Purity of the Law, as appears in the Hiſtory of the <hi>Maccabees.</hi> He ſaith in his <hi>R. R.</hi> P. 22. the <hi>Hebrew Bibles</hi> were not corrupted in any <hi>material Thing</hi> till <hi>after the Deſtruction of Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and now they were corrupted before the Birth of Chriſt.</p>
+            <p>This Man cannot for his Life agree with himſelf. He overlooks ſeveral things in the Confirmation of my <hi>Firſt Argument,</hi> with my <hi>Second</hi> and <hi>Third,</hi> and hopps to the <hi>Fourth Argument; That the Jews, neither could nor would corrupt the Hebrew Bibles.</hi>
+            </p>
+            <p>
+               <q>I prov'd they could not, becauſe there was a Pure Copy in every Synagogue in the World, beſides thoſe in the Hands of the Chri<g ref="char:EOLhyphen"/>ſtians, which wou'd ſoon have detected an attempt of that kind. I Quoted <hi>Auſtin</hi> and <hi>Jerome</hi> in confirmation of the Argument; and I added that the watchful Providence of God wou'd not have ſuffer'd ſuch an attempt to proſper.</q>
+            </p>
+            <p>He Anſwers only to this laſt Part of my Argument. <hi>That Provi<g ref="char:EOLhyphen"/>dence has permitted various readings in the New Teſtament,</hi> p. 12. So it has in the old alſo, but what is this to the <hi>Jews making bold with the Scrip<g ref="char:EOLhyphen"/>ture in prejudice to Chriſtianity</hi> and <hi>corrupting them in very material Things,</hi> as the Rector affirms, <hi>R. R. P.</hi> 22. The various readings of <hi>Ben. Aſher</hi> and <hi>Ben. Napthali</hi> are of uncertain Original, and <hi>Capellus</hi> himſelf, a more skilful improver of what may ſeem to impair the Authority of the <hi>Hebrew</hi> Text; confeſſes that they are trivial, and not in matters of any Moment.</p>
+            <p>The Rector excepted againſt the Purity of the <hi>Hebrew</hi> from <hi>Juſtin
+<pb n="19" facs="tcp:106188:10"/>Martyr,</hi> who charg'd the <hi>Jews</hi> with corrupting the Scriptures.</p>
+            <p>I prov'd, that <hi>Juſtin Martyr</hi> ſpeaks of the <hi>Greek Verſions</hi> of the Bi<g ref="char:EOLhyphen"/>ble, and quoted his Words at large. This the Rector cannot deny, but ſaith he, the <hi>Father examined not only the Copies uſed in the Jewiſh Synagogue</hi> (<hi>i. e.</hi> thoſe of the LXX.) <hi>but in all likelihood</hi> He<g ref="char:EOLhyphen"/>brew <hi>Copies too,</hi> p. 14.</p>
+            <p>
+               <hi>Juſtin</hi> no where mentions any Corruption of the <hi>Hebrew,</hi> but he ex<g ref="char:EOLhyphen"/>preſly mentions the corrupting of the LXX. nor does the Rector; but <hi>ſuppoſe</hi> he examin'd the <hi>Hebrew</hi> Copies; He cannot affirm it, though he thinks he was acquainted with the <hi>Hebrew</hi> and <hi>Syriack.</hi> If I ſhould grant he underſtood the <hi>Hebrew,</hi> it does not prove the Cor<g ref="char:EOLhyphen"/>ruption of the <hi>Hebrew Text.</hi> But it is more probable he did not underſtand the <hi>Hebrew,</hi> becauſe he miſtakes the Etymology of <hi>Iſrael,</hi> which he derives from <hi>Iſra</hi> a Man and <hi>el</hi> Strength, <hi>q. Homo vincens Virtutem.</hi> The Rector defends this Etymology, and ſaith by <hi>virtu<g ref="char:EOLhyphen"/>tem</hi> he means <hi>God the Strength of Iſrael,</hi> 1 Sam. 15.29. <hi>p.</hi> 13.</p>
+            <p>He betrays his own Ignorance of the <hi>Hebrew,</hi> by vindicating <hi>Ju<g ref="char:EOLhyphen"/>ſtin</hi>'s skill in it, for <hi>Iſra</hi> does not ſignifie a <hi>Man</hi> in <hi>Hebrew. Iſh</hi> ſig<g ref="char:EOLhyphen"/>nifies a <hi>Man,</hi> but <hi>Iſrael</hi> is from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>dominatus fuit praevaluit,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> God, as <hi>Moſes</hi> explains it, <hi>Gen.</hi> 32.28. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>be<g ref="char:EOLhyphen"/>cauſe as a Prince thou haſt Power with God,</hi> as we well render it. <hi>Ju<g ref="char:EOLhyphen"/>ſtin</hi> explains what he means by <hi>El</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Power, no other God but the <hi>God of this World,</hi> for he makes <hi>Jacob</hi>'s Victory over the Angel a myſterious Repreſentation of Chriſt's Victory over Satan, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Devil came to him, which is that Power which is call'd the Serpent and Satan.</hi>
+            </p>
+            <p>
+               <note n="*" place="bottom">Juſt. M. Diab. cum Tryph. <hi>p. 277, 278.</hi> Edit. Sylburg.</note>
+               <hi>Juſtin</hi>'s <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies the <hi>Devil,</hi> which the Rector by an unpa<g ref="char:EOLhyphen"/>rallell'd Blunder makes to ſignifies the <hi>true God,</hi> where he reads <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he only quotes the Text of the LXX, but does not pro<g ref="char:EOLhyphen"/>feſſedly give the Signification of <hi>Iſrael,</hi> as he does in this Place.</p>
+            <p>The Rector deſerts his <hi>Voſſian</hi> Argument of the Corruption of the <hi>Hebrew Chronology.</hi> He propos'd it out of <hi>Voſſius,</hi> and made the beſt Improvement he cou'd of it, <hi>R. R.</hi> p. 25, 26. But now he is not at leiſure to vindicate it, ſo that <hi>Voſſius</hi> muſt ſhift for himſelf. And whereas the Rector poſitively affirm'd Two. Thouſand Years to be loſt in the Chronology of our <hi>Hebrew</hi> Bible, and that the World muſt be Six Thouſand Years Old when Chriſt came; I ſuggeſted, <q>That he cannot prove that Chriſt is come in the Fleſh, without re<g ref="char:EOLhyphen"/>jecting the Authority of our <hi>Engliſh</hi> Bibles in Point of Chronolo<g ref="char:EOLhyphen"/>gy.</q> The Rector Anſwers: <hi>He can prove it by the</hi> LXX, <hi>or he will
+<pb n="20" facs="tcp:106188:11"/>ſuppoſe the</hi> Hebrew <hi>Chronology right, and then it is not neceſſary to fol<g ref="char:EOLhyphen"/>low the</hi> Jewiſh <hi>Principle of Six Thouſand Years,</hi> p. 15.</p>
+            <p>If the Rector prove it by the LXX, he renounces the Authority of our <hi>Engliſh Corrupt Bibles</hi> in Point of Chronology, which I ſaid he muſt do by his Principle: If he admits the <hi>Hebrew Chronology,</hi> he rejects the LXX. I perceive he is unreſolv'd which of the Two Chronologies to follow, but let him at his leiſure chuſe which he pleaſes, he ſtill confirms my Argument. As to the Inſtance of <hi>Cai<g ref="char:EOLhyphen"/>nan</hi> in <hi>Luc.</hi> 3. if the Rector be not ſatisfied with what Dr. <hi>Light<g ref="char:EOLhyphen"/>foot</hi> offers, whom he does not fairly anſwer, let him conſult <hi>Pol. Syn. Crit.</hi> or <hi>Gregory</hi> of <hi>Oxf.</hi> his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Dr. <hi>Fowler</hi> the preſent Biſhop of <hi>Gloceſter.</hi>
+            </p>
+            <p>The Rector thinks, that the true Reading of <hi>Deut.</hi> 32.8. ought to be <hi>according to the number of Angels, becauſe</hi> Jerom <hi>read it ſo,</hi> p. 17.</p>
+            <p>
+               <hi>Jerom</hi> translated the LXX. into <hi>Latin,</hi> and ſometimes reads accord<g ref="char:EOLhyphen"/>ing to the <hi>Hebrew</hi> Verity, ſometimes according to the LXX. He ar<g ref="char:EOLhyphen"/>raigns the 1 <hi>Sam.</hi> 2.17. which he ſaith is Corrupted, and to be Corrected by the LXX, <hi>p.</hi> 17, 18.</p>
+            <p>I have conſulted the Place, and find a perfect Agreement between the <hi>Hebrew</hi> and the LXX. The Poor Man's fancy is ſo vitiated with Ideas of Corruption, that if he do but look into the <hi>Hebrew</hi> Text, it appears corrupt and impure unto him. He has dwelt ſo long upon this Subject, that he can ſcarce think of any thing elſe but <hi>Corrupti<g ref="char:EOLhyphen"/>on, Corruption.</hi> The Thought is natural enough, if he apply'd it to the proper Subject, namely to his own Writings, and not to the in<g ref="char:EOLhyphen"/>ſpired Volumes. He has found another Corruption in <hi>Deut.</hi> 33.6. where the <hi>Hebrew</hi> wants <hi>not,</hi> He adds, <hi>That the Criticks take a great deal of Pains to patch up the</hi> Hebrew <hi>Verity, but without any Satisfaction to me, I profeſs,</hi> p. 18.</p>
+            <p>I deſpair of ſatisfying this <hi>hypercritical</hi> Man, but for the Satisfacti<g ref="char:EOLhyphen"/>on of the Reader, I will take notice of two Things. 1. The <hi>Hebrew</hi> is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Let his Men be a Number,</hi> which may be apply'd to a <hi>great Number,</hi> as well as a <hi>ſmall,</hi> and ſo the Reading will be, <hi>Let his Men be many,</hi> and thus it agrees with the LXX, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Let me add, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be rendred <hi>Dead Men,</hi> ſo ſome tranſlate the Word in <hi>Iſa.</hi> 41.14. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ye Dead Men of Iſrael,</hi> and ſo the Reading will be, <hi>Let thy Dead Men be few.</hi> If <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be rendred <hi>few,</hi> as it is by our Tranſlators, and the Words are a <hi>Bleſ<g ref="char:EOLhyphen"/>ſing</hi> and not a <hi>Curſe,</hi> as he pretends they muſt be, if <hi>not</hi> be left out. 2. <hi>Not</hi> is frequently omitted in the <hi>Hebrew,</hi> and to be ſupply'd from the foregoing Sentence, as in <hi>Iſa.</hi> 28.27, 28. and 23.4. <hi>Pſalm</hi> 91.4,
+<pb n="21" facs="tcp:106188:11"/>5. and 9.18. I deſire the Learned Reader to conſult theſe places in the <hi>Hebrew,</hi> many more might be mention'd to the ſame Purpoſe. It may be the Rector will ſay, theſe alſo are <hi>Corrupted.</hi>
+            </p>
+            <p>He takes notice that <hi>Jerom</hi> ſpeaks doubtfully of two other Places in the Old Teſtament, as if they were Corrupted, <hi>p.</hi> 18.</p>
+            <p>But <hi>Jerom</hi> does not poſitively affirm, as the Rector doth; by how much he was more Learned than the Rector, he was ſo much the more Modeſt. <hi>Jerom</hi> ſaith, <hi>We know not certainly, whether it was ſtruck out of the ancient Copies, or added by the</hi> LXX. The Rector ſaith with a daring boldneſs, <hi>I have made good my Aſſertion, that the</hi> Hebrew <hi>Bibles have been Corrupted in all Ages,</hi> p. 19.</p>
+            <p>The Rector has a ſingular faculty in making good his <hi>Aſſertion,</hi> without either vindicating his own Arguments, or anſwering mine to the contrary. The Truth is, his <hi>Aſſertion</hi> is ſo very <hi>bad,</hi> that a more accompliſh'd Artiſt than himſelf, wou'd be at a loſs how to make it <hi>good.</hi> It puts me in mind of a Story or King <hi>James</hi> the firſt, as ſome of his Nobles were exerciſing themſelves at leaping, lays the King pleaſantly to 'em, you talk of leaping, I wou'd leap over yon<g ref="char:EOLhyphen"/>der Wall, and pointed at a high Wall that was near 'em; Yes, Sir, ſays a Paraſite that ſtood near him, I believe your Majeſty cou'd leap over it: Hold Man, reply'd the King, I did not ſay I <hi>cou'd</hi> leap over it, but I <hi>wou'd</hi> do it, that is, if I were able. The Rector ſhews his <hi>good</hi> Will to confirm his Aſſertion, and has made ſome feeble attempts in his <hi>R. R.</hi> to attack the <hi>Maſora,</hi> the <hi>Fence</hi> of the Law<note n="*" place="bottom">Maſora eſt ſepimentum legis. <hi>Elias Levita,</hi>
+               </note>, but the Wall is too <hi>high</hi> to be leap'd over, and too <hi>ſtrong</hi> to be broken down, and therefore in his Letter he wiſely declines it, leſt he ſhou'd break his Shins, and be forced to a diſhonourable Retreat.</p>
+            <p>But is he in earneſt, when he ſays the <hi>Hebrew Bibles have been cor<g ref="char:EOLhyphen"/>rupted in all Ages?</hi> And has he made this good ? It ſeems <hi>all Ages</hi> are comprehended in the Time of <hi>Ezra</hi> and <hi>Juſtin Martyr</hi> for he mentions no more; and he has not prov'd, that they were corrup<g ref="char:EOLhyphen"/>ted then. Our Bibles muſt be Corrupt indeed, if <hi>every Age</hi> has been practiſing upon 'em. According to the Rector, it has been the Work of <hi>every Age</hi> to Corrupt the Bible. It's well, if he allows us any ſound part in it, for that which has been always in the Cor<g ref="char:EOLhyphen"/>rupting, muſt be a very Corrupt Thing at laſt. The Rector ſwou'd at leaſt have paid as much deference to the Holy Bible, as he wou'd to the Prophane Works of <hi>Homer</hi> and <hi>Virgil,</hi> which none will ſay, <hi>have been corrupted in all Ages.</hi> It's a little unlucky, that this Man cannot quarrel with the <hi>Diſſenters,</hi> but he muſt quarrel with the <hi>Bi<g ref="char:EOLhyphen"/>ble</hi>
+               <pb n="22" facs="tcp:106188:12"/>alſo. He might have left the ſacred Volumes alone, though he were diſpos'd to reproach us. However he has one Conſolation, that he is not ſingular in his Hypotheſes, for he has <hi>Mahometans, Papiſts</hi> and <hi>Deiſts</hi> in his Intereſt, who unanimouſly charge our Scrip<g ref="char:EOLhyphen"/>tures with <hi>material Corruptions.</hi>
+            </p>
+            <p>I ſhall add one thing more, and I have done. The Rector's Letter which bears Date, <hi>April</hi> 8. 1699. came not to my Hands, until <hi>Aug.</hi> 16. nor did I hear any thing of it, before I ſaw it. I preſume the Rector deſign'd it for the <hi>Private <g ref="char:V">Ʋ</g>ſe</hi> of his <hi>Friend,</hi> of whoſe Can<g ref="char:EOLhyphen"/>did Acceptance he was well aſſur'd, and not for ſuch <hi>ill-natur'd Peo<g ref="char:EOLhyphen"/>ple,</hi> as will take nothing upon Truſt, but Critically examine his weak Reaſonings, and vindicate themſelves from his unjuſt Criminations. He publiſh'd his Letter, as <hi>Ariſtotle</hi> did ſome of his Books, concern<g ref="char:EOLhyphen"/>ing which he ſaith, <hi>I made 'em Publick, as if I had not made 'em Pub<g ref="char:EOLhyphen"/>lick</hi>
+               <note n="*" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Gell. Noct. Attic. <hi>XX. 4.</hi>
+               </note>. He told us above, that his blind Evidence of the <hi>Cameronian</hi> Story may be ſufficient for <hi>Private Conviction,</hi> though not to be allow'd <hi>in Publick Forms of Juſtice,</hi> p. 20. Perhaps this <hi>Epiſtle,</hi> which manifeſt<g ref="char:EOLhyphen"/>ly recedes <hi>from the Laws of Juſtice,</hi> was deſign'd for <hi>Private Convicti<g ref="char:EOLhyphen"/>on.</hi> However, ſince it came accidentally to my Hands, and no re<g ref="char:EOLhyphen"/>turn is made to it by his <hi>
+                  <g ref="char:V">Ʋ</g>topian Friend,</hi> I have been ſo kind to the Rector, leſt he ſhould think himſelf ſlighted; as to Anſwer his Let<g ref="char:EOLhyphen"/>ter with all the plainneſs and faithfulneſs, which may ſeem neceſſary to regulate his <hi>Faith</hi> towards the <hi>Scriptures,</hi> and <hi>Charity</hi> towards his <hi>Brethren.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:106188:12"/>
+            <head>
+               <hi>Books Printed for</hi> Tho. Parkhurſt <hi>at the</hi> Bible <hi>and</hi> Three Crowns <hi>in</hi> Cheapſide <hi>near</hi> Mercers-Cha<g ref="char:EOLhyphen"/>pel.</head>
+            <list>
+               <head>Books written by the Reverend Mr. <hi>J. Howe.</hi>
+               </head>
+               <item>OF Thoughtfulneſs for the Morrow. With an Appendix concern<g ref="char:EOLhyphen"/>ing the immoderate Deſire of Foreknowing Things to come.</item>
+               <item>Of Charity, in reference to other Mens Sins.</item>
+               <item>A Sermon Preach'd at the Funeral of Mr. <hi>Richard Adams,</hi> M. A. Sometime Fellow of <hi>Braſen-Noſe</hi> Colledge, in <hi>Oxford.</hi>
+               </item>
+               <item>The Redeemer's Tears wept over loſt Souls: In a Treatiſe on <hi>Luke</hi> 19.41, 42. With an Appendix, wherein ſomewhat is occaſi<g ref="char:EOLhyphen"/>onally diſcourſed, concerning the Sin againſt the Holy Ghoſt, and how God is ſaid to will the Salvation of them that periſh.</item>
+               <item>A Sermon directing what we are to do after a ſtrict Enquiry, Whether or no we truly love God.</item>
+               <item>A Funeral Sermon for Mrs. <hi>Eſther Sampſon,</hi> the late Wife of <hi>Hen. Sampſon,</hi> Doctor of Phyſick, who died <hi>Nov.</hi> 24. 1689.</item>
+               <item>The Carnality of Religious Contention. In two Sermons, Preach'd at the Merchants Lecture in <hi>Broadſtreet.</hi>
+               </item>
+               <item>A Sermon for <hi>Reformation of Manners.</hi>
+               </item>
+               <item>A Sermon Preach'd on the Day of Thankſgiving, <hi>Decemb.</hi> 2. 1697. To which is prefix'd Dr. <hi>Bates</hi>'s Congratulatory Speech to the KING.</item>
+               <item>A Calm and Sober Enquiry, concerning the Poſſibility of a Tri<g ref="char:EOLhyphen"/>nity in the Godhead.</item>
+               <item>A Letter to a Friend, concerning a Poſt-ſcript to the Defence of Dr. <hi>Sherlock</hi>'s Notion of the Trinity in Unity, relating to the Calm and Sober Enquiry upon the ſame Subject.</item>
+               <item>A View of that part of the late Conſiderations to <hi>H. H.</hi> about the Trinity: Which concerns the Sober Enquiry on that Subject.</item>
+            </list>
+            <list>
+               <pb facs="tcp:106188:13" rendition="simple:additions"/>
+               <head>Books written by <hi>J. Flavel.</hi>
+               </head>
+               <item>THE Fountain of Life opened, or a Diſplay of Chriſt in his Eſſen<g ref="char:EOLhyphen"/>tial and Mediatorial Glory. Containing Forty two Sermons on various Texts.</item>
+               <item>A Treatiſe of the Soul of Man, wherein the Divine Original, Excellent and Immortal Nature of the Soul are opened, <hi>&amp;c.</hi>
+               </item>
+               <item>The Method of Grace, in bringing home the Eternal Redempti<g ref="char:EOLhyphen"/>on, contriv'd by the Father, and accompliſh'd by the Son, through the Effectual Application of the Spirit unto God's Elect.</item>
+               <item>The Divine Conduct, or Myſtery of Providence, <hi>&amp;c.</hi>
+               </item>
+               <item>Navigation Spiritualiz'd: Or, A new Compaſs for Sea-Men, <hi>&amp;c.</hi>
+               </item>
+               <item>Two Treatiſes, the firſt of Fear; the ſecond, the Righteous Man's Refuge in the Evil Day.</item>
+               <item>A Saint indeed: The great Work of a Chriſtian.</item>
+               <item>A Touchſtone of Sincerity: Or, Signs of Grace, and Symptoms of Hypocriſie: Being the Second Part of the Saint indeed.</item>
+               <item>A Token for Mourners: Or, Boundaries for Sorrow for the Death of Friends.</item>
+               <item>Husbandry Spiritualiz'd: Or, the Heavenly Uſe of Earthly Things.</item>
+               <item>Jehovah our Righteouſneſs: Or the Juſtification of Believers by the Righteouſneſs of Chriſt only, Aſſerted and Applied in ſeveral Ser<g ref="char:EOLhyphen"/>mons. By <hi>Sam. Tomlins,</hi> A. M.</item>
+               <item>A moſt familiar Explanation of the Aſſemblies Shorter Catechiſm. By <hi>Joſ. Allein.</hi>
+               </item>
+               <item>A Paraphraſe on the New Teſtament, with Notes Doctrinal and Practical. By Mr. <hi>Richard Baxter.</hi>
+               </item>
+               <item>An Account of the Life and Death of Mr. <hi>Philip Henry</hi> Miniſter of the Goſpel near <hi>Whitchurch</hi> in <hi>Shropſhire.</hi>
+               </item>
+               <item>Sermons and Diſcourſes on ſeveral Divine Subjects. By the late Reverend and Learned Divine Mr. <hi>David Clarkſon,</hi> B. D. and ſome<g ref="char:EOLhyphen"/>time Fellow of <hi>Clare-Hall Cambridge.</hi> Folio.</item>
+               <item>A Body of Practical Divinity, containing 176 Sermons upon the Aſſemblies Shorter Catechiſm. By <hi>Tho. Watſon.</hi> Folio.</item>
+            </list>
+            <pb facs="tcp:106188:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
